@@ -1,5 +1,5 @@
 # Laravel-and-vuejs
-[alt text] (https://en.wikipedia.org/wiki/File:Laravel.svg)
+![alt text] (https://en.wikipedia.org/wiki/File:Laravel.svg)
 Laravel And Vue JS Examples
 Merhaba, Laravel ve Vuejs kullanarak yazılım geliştirebilmemiz için, aşağıdaki kurulum adımlarını gerçekleştirmemiz gerekiyor. 
 
